@@ -1,8 +1,8 @@
-# Image Placeholder Generator
+# SVG Placeholder Data URI
 
 Generate lightweight placeholder images as inline SVG data URIs. No raster encoding, no network request. Set the size, colors, label, and style, then copy the output in the format you need.
 
-**Live demo:** https://0xelitesystem.github.io/image-placeholder-generator/
+**Live demo:** https://0xelitesystem.github.io/svg-placeholder-data-uri/
 
 ## Use
 
@@ -35,8 +35,8 @@ Everything is generated in your browser. Your inputs and the generated markup ne
 ## Run locally
 
 ```bash
-git clone https://github.com/0xelitesystem/image-placeholder-generator
-cd image-placeholder-generator
+git clone https://github.com/0xelitesystem/svg-placeholder-data-uri
+cd svg-placeholder-data-uri
 ```
 
 Then open `index.html` in any modern browser. Or serve the folder with `python -m http.server 8000` and visit http://localhost:8000.
